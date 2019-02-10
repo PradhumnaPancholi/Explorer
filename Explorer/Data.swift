@@ -7,5 +7,7 @@
 //
 import Foundation
 
-//Name for places//
+//Name of places//
 let places = ["amsterdam","vegas","vancouver","paris","tokyo","corsica"]
+
+//for imagess//
