@@ -8,7 +8,7 @@
 import UIKit
 
 //Name of places//
-let places = ["amsterdam","vegas","vancouver","paris","tokyo","corsica"]
+let places = ["Amsterdam"," Las Vegas","Vancouver","Paris","Tokyo","Corsica"]
 
 //images//
 let amsterdam = UIImage(named: "amsterdam")
